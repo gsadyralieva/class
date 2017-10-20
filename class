@@ -7,3 +7,4 @@ if [ $NUM1 -eq $NUM2 ]; then
 else 
 	echo "Values are NOT equal"
 fi 
+
